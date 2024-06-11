@@ -1,0 +1,8 @@
+1.
+CREATE VIEW f1 AS SELECT film.cim FROM film WHERE film.gyartas = YEAR(film.bemutato);
+
+2.
+CREATE VIEW f2 AS SELECT szemely.nev,ROUND(COUNT(film.id)/(MAX(film.gyartas)-MIN(film.gyartas)),0) AS atlagFilmPerEv FROM feladat,film,szemely WHERE szemely.id = feladat.szemelyid AND feladat.filmid = film.id AND szemely.nev = "Kabos Gyula";
+
+3.
+CREATE VIEW f3 AS SELECT CEIL(SUM(film.hossz)/60/10) AS Nap FROM film WHERE youtube=1;

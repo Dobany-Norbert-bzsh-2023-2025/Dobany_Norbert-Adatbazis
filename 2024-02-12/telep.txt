@@ -1,0 +1,26 @@
+az	nev	kerulet	cim
+1	Andor	11	Andor u. 27-31.
+2	Bogáncs	15	Bogáncs u. 1-3.
+3	Népliget	10	Üllői út 131
+4	Törökverő	11	Törökverő u.
+5	Szállító	21	Szállító utca 6.
+6	Volvo		
+7	Óbuda	3	Pomázi út 15.
+8	Kőbánya	10	Zách u. 8.
+9	Kelenföld	11	Hamzsabégi út 55.
+10	Cinkota	16	Bökényföldi út 122.
+11	Délpest	19	Méta utca 39.
+12	DBR METRO járműtelep	11	Gyergyótölgyes utca 2.
+13	É-D-i METRO járműtelep	10	Kőér utca 2/b.
+14	K-NY-i METRO járműtelep	10	Fehér út 1.
+15	MILL-FAV telephely	14	Kacsoh Pongrácz út 21-23.
+16	Szépilona	2	Budakeszi út 9-11.
+17	Angyalföld	4	Gyapjúszövő köz 11.
+18	Baross	8	Baross utca 130-132.
+19	Hungária	8	Törökbecse utca 17.
+20	Ferencváros	9	Könyves Kálmán körút. 5-7.
+21	Száva	10	Üllői út 197-199.
+22	Kelenföldi ksz.	11	Bartók Béla út 137.
+23	Budafok	11	Fehérvári út 247.
+24	Fogas	12	Szilágyi Erzsébet fasor 14.
+25	Zugló	14	Thököly út 173.
